@@ -6,7 +6,7 @@
 ---
 ### 1.1、目录
 ---
-| [编程语言与编译器](./src/编程语言与编译器/SUMMARY.md) | [编程语言与编译器](./src/编程语言与编译器/SUMMARY.md) | [并行与分布式系统](./src/并行与分布式系统/SUMMARY.md) |
+| [编程语言与编译器](./src/编程语言与编译器/SUMMARY.md) | [信息安全与加解密](./src/信息安全与加解密/SUMMARY.md) | [并行与分布式系统](./src/并行与分布式系统/SUMMARY.md) |
 |:-----------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
 |     **[网络与协议](./src/网络与协议/SUMMARY.md)**     |     **[服务器部署](./src/服务器部署/SUMMARY.md)**     |     **[计算机硬件](./src/计算机硬件/SUMMARY.md)**     |
 |       **[开源相关](./src/开源相关/SUMMARY.md)**       |       **[操作系统](./src/操作系统/SUMMARY.md)**       |       **[人工智能](./src/人工智能/SUMMARY.md)**       |
@@ -68,6 +68,7 @@
     https://help.github.com/articles/working-with-advanced-formatting/
     https://help.github.com/articles/basic-writing-and-formatting-syntax/#using-emoji
     https://help.github.com/enterprise/2.12/user/articles/organizing-information-with-tables/
+    图标使用说明：https://www.webpagefx.com/tools/emoji-cheat-sheet/
 ### 2.2、Markdown 语法说明 (简体中文版)：
     http://wowubuntu.com/markdown/index.html
 ### 2.3、Markdown常用工具：

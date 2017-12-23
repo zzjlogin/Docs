@@ -1,5 +1,5 @@
 # [返回主页](./../../README.md)
-## - [ ] 编程语言
+## 编程语言
 - [程序员必读书籍](http://www.ezlippi.com/blog/2014/07/qualified-programmer-should-read-what-books.html)
 
 - 高级语言
