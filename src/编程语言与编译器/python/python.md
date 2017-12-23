@@ -1,6 +1,4 @@
-# 返回首页 ：+：
----
-## 返回上级目录
+# [返回首页](./../../../README.md) :+1:
 ---
 ## 目录
 ---
@@ -107,3 +105,4 @@
     - [Beautiful Soup 4.2.0 中文文档](http://beautifulsoup.readthedocs.org/zh_CN/latest/)
     - [官方资料4.2.0](https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html)
     - [中文4.4.0资料](http://beautifulsoup.readthedocs.io/zh_CN/latest/#id14)
+    - [中文资料](https://www.crummy.com/software/BeautifulSoup/bs3/documentation.zh.html#Similar%20libraries)
