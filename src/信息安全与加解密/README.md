@@ -67,6 +67,10 @@ summary# [Web-Security-Learning](https://chybeta.github.io/2017/08/19/Web-Securi
 + [sqlmap 使用总结 ](http://www.zerokeeper.com/web-security/sqlmap-usage-summary.html)
 + [SQLmap tamper脚本注释](http://www.lengbaikai.net/?p=110)
 + [通过Burp以及自定义的Sqlmap Tamper进行二次SQL注入](http://www.4hou.com/system/6945.html)
+- [CYBERSECURITY SQL INJECTION IRONY](http://codecurmudgeon.com/wp/tag/sqlinjection/)
+- [SQLI HALL-OF-SHAME](http://codecurmudgeon.com/wp/sql-injection-hall-of-shame/)
+- [OWASP(Open Web Application Security Project)列举的常见的威胁](https://www.owasp.org/index.php/Top_10_2013-Top_10)
+
 
 ## 前端安全
 ### XSS
