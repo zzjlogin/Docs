@@ -2,27 +2,18 @@
 ## 编程语言
 - [程序员必读书籍](http://www.ezlippi.com/blog/2014/07/qualified-programmer-should-read-what-books.html)
 
-- 高级语言  
-    | [java](./java/java.md) | [C](./c/c.md) | [C++](#cc) | [Groovy](#groovy) |
-    | [Android](#android) | [AWK](#awk) | [SED](#SED) | [Go](#go) |
-    |  [CSS/HTML](#css) | [Dart](#dart) | [Erlang](#erlang) | [Fortran](#fortran)  |
-    - [Haskell](#haskell)
-    - [iOS](#ios)
-    - [Java](#java)
-    - [JavaScript](#javascript)
-    - [LaTeX](#latex)
-    - [LISP](#lisp)
-    - [Lua](#lua)
-    - [Perl](#perl)
-    - [PHP](#php)
-    - [Prolog](#prolog)
-    - [Python](./python/python.md)
-    - [R](#r)
-    - [Ruby](#ruby)
-    - [Scala](#scala)
-    - [Scheme](#scheme)
-    - [Shell](#shell)
-    - [Swift](#swift)
+- 高级语言
+
+| [java](./java/java.md)  | [C](./c/c.md) |[C++](#cc) | [Groovy](#groovy) |
+| ------------- | ------------- | ------------- | ------------- |
+| **[Android](#android)**  | **[AWK](#awk)**  | **[SED](#SED)**  | **[Go](#go)**  |
+| **[CSS/HTML](#css)** | **[Dart](#dart)** | **[Erlang](#erlang)** | **[Fortran](#fortran)** |
+| **[Haskell](#haskell)** | **[iOS](#ios)** | **[Java](#java)** | **[JavaScript](#javascript)** |
+| **[LaTeX](#latex)** | **[LISP](#lisp)** | **[Lua](#lua)** | **[Perl](#perl)** |
+| **[PHP](#php)** | **[Prolog](#prolog)** | **[Python](./python/python.md)** | **[R](#r)** |
+| **[Ruby](#ruby)** | **[Scala](#scala)** | **[Scheme](#scheme)** | **[Shell](#shell)** |
+| **[Swift](#swift)** |   |   |   |
+
 - 低级语言
     - 汇编
     - 编译原理
