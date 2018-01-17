@@ -5,7 +5,7 @@
 - 高级语言
 
 | [java](./java/java.md)  | [C](./c/c.md) |[C++](#cc) | [Groovy](#groovy) |
-| ------------- | ------------- | ------------- | ------------- |
+| :-------------: | :-------------: | :-------------: | :-------------: |
 | **[Android](#android)**  | **[AWK](#awk)**  | **[SED](#SED)**  | **[Go](#go)**  |
 | **[CSS/HTML](#css)** | **[Dart](#dart)** | **[Erlang](#erlang)** | **[Fortran](#fortran)** |
 | **[Haskell](#haskell)** | **[iOS](#ios)** | **[Java](#java)** | **[JavaScript](#javascript)** |
