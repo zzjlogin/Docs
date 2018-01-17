@@ -3,18 +3,10 @@
 - [程序员必读书籍](http://www.ezlippi.com/blog/2014/07/qualified-programmer-should-read-what-books.html)
 
 - 高级语言
-    - [java](./java/java.md)
-    - [C](./c/c.md)
-    - [C++](#cc)
-    - [Android](#android)
-    - [AWK](#awk)
-    - [SED](#SED)
-    - [CSS/HTML](#css)
-    - [Dart](#dart)
-    - [Erlang](#erlang)
-    - [Fortran](#fortran)
-    - [Go](#go)
-    - [Groovy](#groovy)
+| [java](./java/java.md) | [C](./c/c.md) | [C++](#cc) | [Groovy](#groovy) |
+|:-----:|:-----:|:-----:|:-----:|
+| [Android](#android) | [AWK](#awk) | [SED](#SED) | [Go](#go) |
+|  [CSS/HTML](#css) | [Dart](#dart) | [Erlang](#erlang) | [Fortran](#fortran)  |
     - [Haskell](#haskell)
     - [iOS](#ios)
     - [Java](#java)
